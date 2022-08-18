@@ -1,0 +1,16 @@
+.button-link.join-discord-button:hover {
+  background: transparent;
+  color: white;
+  border-color: white;
+}
+
+.button-link.join-discord-button {
+  background: white;
+  color: black;
+  border-color: black;
+}
+
+.owl-carousel .owl-stage {
+  display: flex !important;
+  align-items: center !important;
+}
